@@ -110,6 +110,9 @@ Your website should have 2 HTML pages.
 
 * See a full list of many different Open Web APIs you can use:
   * https://github.com/public-apis/public-apis
+  * https://apilist.fun/
+  * https://duckduckgo.com/?q=free+web+apis&ia=software
+  * https://www.google.com/search?hl=en&q=free%20web%20apis
   * https://www.programmableweb.com/apis/directory
 
 ## In Scope
