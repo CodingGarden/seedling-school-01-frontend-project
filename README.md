@@ -91,6 +91,8 @@ Your website should have 2 HTML pages.
 
 ## Example 3rd party web APIs to use
 
+> NOTE: you will want to find an API that does not require OAuth / authentication, and is completely open or only requires an API key.
+
 * Weather API
 * News / Articles API 
 * Movie API
