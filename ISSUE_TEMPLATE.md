@@ -16,7 +16,7 @@
 
 * Link to the API documentation here:
 
-## Are you any of these:
+## Which of the following describes you:
 
 * [ ] YouTube Subscriber
 * [ ] Twitch Follower
