@@ -30,6 +30,10 @@ For your first project, you will build a frontend website with HTML, CSS and Jav
 
 *
 
+## Example Project Ideas
+
+*
+
 ## In Scope
 
 *
