@@ -169,5 +169,4 @@ Not required, but if you want to go above and beyond:
 
 ## TODO: (For CJ on stream)
 
-* [ ] Create a Code Review Checklist
-* [ ] Create an Overall Project Checklist
+* [ ] Create an Overall Project Rubric to use for consistent reviews and self guidance
