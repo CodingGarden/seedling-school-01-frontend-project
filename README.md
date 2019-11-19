@@ -49,7 +49,7 @@ Your website should have 2 HTML pages.
       * Settings check boxes
   * Use user input to contact a 3rd party API for data
   * Add the data from the 3rd party API to the page
-* Your website will be deployed to a service like netlify, surge, heroku, github pages or now.sh so that others can access / user it
+* Your website will be deployed to a service like netlify, surge, heroku, github pages or now.sh so that others can access / use it
 
 ## Example Project Ideas
 
