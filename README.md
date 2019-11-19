@@ -106,10 +106,14 @@ You can use 3rd party javascript libraries for:
 ## How to Participate
 
 1. Copy the Project Description Template into your own git repo
+  * Copy the description from [here](https://raw.githubusercontent.com/CodingGarden/seedling-school-01-frontend-project/master/PROJECT_DESCRIPTION_TEMPLATE.md)
   * Do not fork or clone this repo.
   * Create your own repo on github named after your application
 2. Fill out Project Description Template in your own git repo and push to github
 3. Open an issue on this repo with a link to your project description
+  * Link to the description file
+  * Paste your 2 - 3 sentence description
+  * Link to the API you plan to use
 4. Leave a comment on the issue as to the current state of your project
   * Submitted / Description under review
   * Project Started
