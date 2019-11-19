@@ -115,11 +115,14 @@ Your website should have 2 HTML pages.
 ## In Scope
 
 You can use 3rd party javascript libraries for:
+
 * Data Visualization
 * Maps
 * pdf renderer
 
 ## Out of Scope
+
+You should not have any of these things in your project, (To help with consistent project feedback / project feasiblity):
 
 * User Login
 * Custom Backend API (Like express / django etc.)
@@ -129,23 +132,23 @@ You can use 3rd party javascript libraries for:
 ## FAQ
 
 * What is deadline for submissions?
-  * No deadline, but try to complete your project with 1.5 weeks.
-  * The community will be checking for new issues / comments on a regular basis, so you can start this project at anytime
+  * No deadline, but try to complete your project with 1.5 weeks from the time you start.
+  * The community will be checking for new issues / comments on a regular basis, so you can start this project at anytime.
 
 ## Stretch Goals
 
 Not required, but if you want to go above and beyond:
 
 * Use a web browser API like geolocation, battery / device, gamepad etc.
-* Use a linter
+* Use a linter (eslint)
 * Mobile first approach
 * SEO friendly tags
 * UI Animations
 * Docker
-* Build process with babel / webpack / gulp / scss / less
+* Build process with babel / webpack / gulp / scss / less etc.
   * Use PostCSS for cross browser compatibility
 * Use plain CSS with Flexbox / grid instead of a CSS Framework
-* Settings persitence in the browser with Local Storage or IndexDB
+* Settings persistence in the browser with Local Storage or IndexDB
   * Hard coded username / password checked against local storage
 * Structure your javascript code in an MV* pattern (No 3rd libraries)
 * Use a state management pattern in your JavaScript code (No 3rd libraries)
@@ -154,11 +157,12 @@ Not required, but if you want to go above and beyond:
 * E2E testing
 * PWA
 * Any constraint you want to put on yourself to get better at a particular technology
-  * Only ES5 (No Es6+ features)
+  * Only ES5 (No ES6+ features)
   * Functional Programming
+  * IE9 compatibility
+  * etc.
 * 100% lighthouse score
 * Use a CI / CD pipeline
-* IE9 compatibility
 
 ## TODO: (For CJ on stream)
 
