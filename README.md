@@ -51,6 +51,44 @@ Your website should have 2 HTML pages.
   * Add the data from the 3rd party API to the page
 * Your website will be deployed to a service like netlify, surge, heroku, github pages or now.sh so that others can access / user it
 
+## Example Project Ideas
+
+* Allow user to enter stock names and view a realtime chart of stock price
+  * Same idea, but with crypto
+* Use a Nutrition API too allow a user to enter the contents of their pantry to get nutritional information
+* Use a Movie API to allow a user to search for Movie descriptions / posters
+* Use an Image API to allow a user to search and favorite images (favorites stored in local storage)
+* Use a News API to search for news articles
+* Use a places / restaurant API to list restaurants near a user
+* Use the ISS API to show the current location of the ISS on a map
+* Use a Rocket Launch History API to allow the user to see if a rocket was launched on a specific day
+* A trip planner
+  * Use ride share API to calculate ride cost
+  * Use a places search API to find hotels in a given place
+  * Use a places search API to find things to do in a given place
+  * Allow the user to save a list of things to do in the browser (localstorage or indexdb) 
+* Use a game stats API to allow the user to search for top gamers of a given game
+
+## How to Participate
+
+1. Copy the Project Description Template into your own git repo
+  * Copy the description from [here](https://raw.githubusercontent.com/CodingGarden/seedling-school-01-frontend-project/master/PROJECT_DESCRIPTION_TEMPLATE.md)
+  * Do not fork or clone this repo.
+  * Create your own repo on github named after your application
+2. Fill out Project Description Template in your own git repo and push to github
+3. [Open an issue on this repo](https://github.com/CodingGarden/seedling-school-01-frontend-project/issues/new) with a link to your project description
+  * Link to the description file
+  * Paste your 2 - 3 sentence description
+  * Link to the API you plan to use
+4. Leave a comment on the issue as to the current state of your project
+  * Submitted / Description under review
+  * Project Started
+  * Need a lesson on a topic
+  * Need Help with a Bug
+  * Project Deployed
+  * Waiting for Code Review
+  * Waiting for Feedback
+
 ## Example 3rd party web APIs to use
 
 * Weather API
@@ -72,24 +110,6 @@ Your website should have 2 HTML pages.
   * https://github.com/public-apis/public-apis
   * https://www.programmableweb.com/apis/directory
 
-## Example Project Ideas
-
-* Allow user to enter stock names and view a realtime chart of stock price
-  * Same idea, but with crypto
-* Use a Nutrition API too allow a user to enter the contents of their pantry to get nutritional information
-* Use a Movie API to allow a user to search for Movie descriptions / posters
-* Use an Image API to allow a user to search and favorite images (favorites stored in local storage)
-* Use a News API to search for news articles
-* Use a places / restaurant API to list restaurants near a user
-* Use the ISS API to show the current location of the ISS on a map
-* Use a Rocket Launch History API to allow the user to see if a rocket was launched on a specific day
-* A trip planner
-  * Use ride share API to calculate ride cost
-  * Use a places search API to find hotels in a given place
-  * Use a places search API to find things to do in a given place
-  * Allow the user to save a list of things to do in the browser (localstorage or indexdb) 
-* Use a game stats API to allow the user to search for top gamers of a given game
-
 ## In Scope
 
 You can use 3rd party javascript libraries for:
@@ -103,26 +123,6 @@ You can use 3rd party javascript libraries for:
 * Custom Backend API (Like express / django etc.)
 * Custom Backend Database (Mongo, MySQL)
 * Firestore / firebase
-
-## How to Participate
-
-1. Copy the Project Description Template into your own git repo
-  * Copy the description from [here](https://raw.githubusercontent.com/CodingGarden/seedling-school-01-frontend-project/master/PROJECT_DESCRIPTION_TEMPLATE.md)
-  * Do not fork or clone this repo.
-  * Create your own repo on github named after your application
-2. Fill out Project Description Template in your own git repo and push to github
-3. Open an issue on this repo with a link to your project description
-  * Link to the description file
-  * Paste your 2 - 3 sentence description
-  * Link to the API you plan to use
-4. Leave a comment on the issue as to the current state of your project
-  * Submitted / Description under review
-  * Project Started
-  * Need a lesson on a topic
-  * Need Help with a Bug
-  * Project Deployed
-  * Waiting for Code Review
-  * Waiting for Feedback
 
 ## FAQ
 
