@@ -48,6 +48,7 @@ Your website should have 2 HTML pages.
       * Search form
       * Settings check boxes
   * Use user input to contact a 3rd party API for data
+  * Add the data from the 3rd party API to the page
 * Your website will be deployed to a service like netlify, surge, heroku, github pages or now.sh so that others can access / user it
 
 ## Example 3rd party web APIs to use
@@ -159,7 +160,5 @@ Not required, but if you want to go above and beyond:
 
 ## TODO: (For CJ on stream)
 
-* [x] Fill in bullet points above
-* [ ] Create a Project Description Template
 * [ ] Create a Code Review Checklist
 * [ ] Create an Overall Project Checklist
