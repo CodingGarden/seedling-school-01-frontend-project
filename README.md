@@ -12,9 +12,9 @@ These are the required goals for the project. Every project should _at least_ me
   * Demonstrate your ability to build basic multi page frontend websites
   * Demonstrate your ability to deploy a website to the web so anyone can access it
   * Demonstrate your ability to debug code with the chrome / firefox dev tools
-  * Demonstrate your ability to manage a project with a tool like trello
+  * Demonstrate your ability to manage a project with a tool like trello or github projects
   * Demonstrate your ability to create wireframes and implement those wireframes
-  * Demonstrate your ability to complete a project to MVP (Minimum Viable Product) with 1.5 weeks
+  * Demonstrate your ability to complete a project to MVP (Minimum Viable Product) within 1.5 weeks
   * Demonstrate your ability to use a REST API tool to test requests to a 3rd party API
 * HTML
   * Demonstrate your ability to create html pages that link to each other
@@ -27,8 +27,11 @@ These are the required goals for the project. Every project should _at least_ me
   * Demonstrate your ability to use and manipulate data from a 3rd party web API
   * Demonstrate your ability to handle errors gracefully
   * Demonstrate your ability to traverse and manipulate the DOM (Document Object Model) with Vanilla JS (No frameworks like Vue or libraries like jQuery)
+    * Demonstrate your ability to select elements in the DOM
+    * Demonstrate your ability to modify elements in the DOM
+    * Demonstrate your ability to add elements to the DOM
 * CSS
-  * Demonstrate your ability to use a CSS Framework (Like Bootstrap or Bulma) to create responsive and adaptive layouts
+  * Demonstrate your ability to use a CSS Framework (see a list of CSS Frameworks [here](./CSS_FRAMEWORKS.md)) to create responsive and adaptive layouts
 
 ## What you will build
 
@@ -166,6 +169,8 @@ Not required, but if you want to go above and beyond:
   * etc.
 * 100% lighthouse score
 * Use a CI / CD pipeline
+
+> If you think of more stretch goals, feel free to open a pull request to update this list.
 
 ## TODO: (For CJ on stream)
 
