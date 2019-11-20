@@ -1,3 +1,8 @@
+---
+title: <project name> Project Submission
+labels: ⏳initial submission
+---
+
 ## Project Name / Title
 
 > Give your project a good descriptive name
