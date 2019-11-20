@@ -1,6 +1,6 @@
 ---
 title: <project name> Project Submission
-labels: ⏳initial submission
+labels: initial submission
 ---
 
 ## Project Name / Title
