@@ -156,8 +156,8 @@ Not required, but if you want to go above and beyond:
 * Use plain CSS with Flexbox / grid instead of a CSS Framework
 * Settings persistence in the browser with Local Storage or IndexDB
   * Hard coded username / password checked against local storage
-* Structure your javascript code in an MV* pattern (No 3rd libraries)
-* Use a state management pattern in your JavaScript code (No 3rd libraries)
+* Structure your javascript code in an MV* pattern (No 3rd party libraries)
+* Use a state management pattern in your JavaScript code (No 3rd party libraries)
 * Multiple pages with DOM manipulation (SPA) instead of multiple html files.
 * Document JavaScript with JSDoc
 * E2E testing

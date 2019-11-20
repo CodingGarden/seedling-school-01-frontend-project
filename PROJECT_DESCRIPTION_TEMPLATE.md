@@ -20,8 +20,12 @@
 
 ## Tech Stack
 
-* CSS Framework will you use - or no framework
+* CSS Framework you will use - or no framework
 * Any 3rd party JS libraries like maps, data viz etc.
+
+## Will you try to implement any stretch features?
+
+* 
 
 ## What will be your process?
 
