@@ -177,11 +177,3 @@ Not required, but if you want to go above and beyond:
 ## TODO: (For CJ on stream)
 
 * [ ] Create an Overall Project Rubric to use for consistent reviews and self guidance
-* [ ] How to submit a project
-* [ ] HTTP
-  * [ ] 3rd party web apis
-* [ ] How to turn a wireframe into a layout using a css framework
-* [ ] Choosing an web API and reading / understanding the documentation 
-* [ ] Make an api request and add the data to the DOM
-* [ ] What is CORS and how to work within its constraints
-* [ ] How to create a github repo to participate
