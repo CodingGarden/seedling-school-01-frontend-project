@@ -92,6 +92,8 @@ Your website should have 2 HTML pages.
   * Waiting for Code Review
   * Waiting for Feedback
 
+> See the [Code Review Checklist](./CODE_REVIEW_CHECKLIST.md) and [UI Review Checklist](./UI_REVIEW.md) to know what I'll be looking for.
+
 ## Example 3rd party web APIs to use
 
 > NOTE: you will want to find an API that does not require OAuth / authentication, and is completely open or only requires an API key.
@@ -175,3 +177,11 @@ Not required, but if you want to go above and beyond:
 ## TODO: (For CJ on stream)
 
 * [ ] Create an Overall Project Rubric to use for consistent reviews and self guidance
+* [ ] How to submit a project
+* [ ] HTTP
+  * [ ] 3rd party web apis
+* [ ] How to turn a wireframe into a layout using a css framework
+* [ ] Choosing an web API and reading / understanding the documentation 
+* [ ] Make an api request and add the data to the DOM
+* [ ] What is CORS and how to work within its constraints
+* [ ] How to create a github repo to participate
