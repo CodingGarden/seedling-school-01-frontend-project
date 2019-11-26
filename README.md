@@ -122,11 +122,13 @@ Your website should have 2 HTML pages.
 
 ## In Scope
 
-You can use 3rd party javascript libraries for:
+You can use 3rd party javascript / css libraries for:
 
 * Data Visualization
 * Maps
 * pdf renderer
+* Icons
+* Fonts
 
 ## Out of Scope
 
