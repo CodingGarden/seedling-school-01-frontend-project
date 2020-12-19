@@ -16,5 +16,6 @@ There are a lot of CSS frameworks out there and this is by no means an exhaustiv
 * [Skeleton CSS](http://getskeleton.com/)
 * [Turret CSS](http://turretcss.com/)
 * [uikit](https://getuikit.com/)
+* [Tailwind CSS](https://tailwindcss.com/)
 
 > If there is another CSS framework that you think should be listed here, please open a pull request.
